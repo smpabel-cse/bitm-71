@@ -1,0 +1,7 @@
+.menu{ margin: 0 auto; background-color: skyblue; list-style: none; 
+padding: 0;  text-align: center;}
+
+.menu li{ display: inline-block; }
+
+.menu li a{ display: block;padding: 15px; text-decoration: none; color: red }
+.menu li a:hover{background: #AAAEB4}
